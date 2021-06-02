@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Meraj aka @AegonValerian
-- 👀 I’m interested in speedcubing, javascript, books
+- 👀 I’m interested in speedcubing, javascript & books
 - 🌱 I’m currently reading Grokking Algorithms
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me > mail
